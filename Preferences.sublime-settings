@@ -1,0 +1,38 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"bin",
+		"CVS",
+		".sass-cache",
+		"tmp",
+		"tests",
+		"plugins",
+		"OLD",
+		"vendor",
+		"node_modules"
+	],
+	"font_size": 11.5,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"overlay_scroll_bars": "enabled",
+	"show_encoding": true,
+	"soda_folder_icons": false,
+	"tab_size": 4,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true,
+	"word_wrap": false
+}
