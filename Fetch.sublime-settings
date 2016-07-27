@@ -1,6 +1,7 @@
 {
 	"files":
 	{
+		"ioniconcs": "http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css",
 		"jquery": "http://code.jquery.com/jquery.min.js"
 	},
 	"packages":

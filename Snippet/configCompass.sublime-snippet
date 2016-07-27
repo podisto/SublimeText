@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+        css_dir = '{1:css}/'
+        sass_dir = '{2:scss}/'
+        images_dir = 'img/'
+        javascripts_dir = 'js/'
+        relative_assets = true
+        line_comments = false
+        output_style = :expanded
+    ]]>
+    </content>
+    
+    <tabTrigger>configCompass</tabTrigger>
+    <scope>source.rb</scope>
+    <description>My Fancy Snippet</description>
+</snippet>

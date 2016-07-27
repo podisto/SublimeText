@@ -1,6 +1,7 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/OLD/Material-Theme.tmTheme",
+	"enable_tab_scrolling": false,
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -13,12 +14,23 @@
 		"tests",
 		"plugins",
 		"OLD",
-		"vendor",
-		"node_modules"
+		"vendor"
 	],
+	"font_family": "Consolas",
 	"font_size": 11.5,
+	"gruvbox_accent_aqua": true,
+	"gruvbox_folder_icons_circle": true,
+	"gruvbox_sidebar_cramped": true,
+	"gruvbox_tabs_xxs": true,
+	"highlight_modified_tabs": true,
+	"material_theme_accent_cyan"              : true ,
+	"material_theme_tabs_autowidth"           : true ,
+	"material_theme_disable_tree_indicator"   : true ,
+	"material_theme_tree_headings"            : true ,
 	"ignored_packages":
 	[
+		"JavaScript",
+		"Markdown Preview",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -26,13 +38,19 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"line_padding_bottom": 2,
-	"line_padding_top": 2,
+	"line_padding_bottom": 0.1,
+	"line_padding_top": 0.1,
+	"material_theme_small_tab": true,
+	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
 	"show_encoding": true,
+	"soda_classic_tabs": false,
 	"soda_folder_icons": false,
+	"soda_retina_fix": false,
 	"tab_size": 4,
-	"trim_trailing_white_space_on_save": true,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": false,
 	"use_tab_stops": true,
 	"word_wrap": false
 }
