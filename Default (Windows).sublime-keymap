@@ -25,5 +25,9 @@
     {"keys": ["ctrl+shift+t"], "command": "delete_trailing_spaces" },
     {"keys": ["ctrl+shift+d"], "command": "toggle_trailing_spaces" },
     { "keys": ["ctrl+n"], "command": "new_file" },
-    {"keys": ["ctrl+alt+m"], "command": "toggle_menu"}
+    {"keys": ["ctrl+alt+m"], "command": "toggle_menu"},
+    { "keys": ["ctrl+tab"], "command": "next_view" },
+    { "keys": ["ctrl+up"], "command": "scroll_lines", "args": {"amount": 20.0} },
+    { "keys": ["ctrl+down"], "command": "scroll_lines", "args": {"amount": -20.0} },
+    { "keys": ["ctrl+²"], "command": "expand_selection", "args": {"to": "brackets"} },
 ]
