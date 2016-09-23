@@ -18,14 +18,12 @@
     { "keys": ["ctrl+n"], "command": "advanced_new_file"},
     { "keys": ["²"], "command": "toggle_side_bar" },
     { "keys": ["ctrl+l"], "command": "alignment" , "context":
-    [
-        { "key": "selection_empty", "operator": "equal", "operand": false, "match_all": true }
-    ]
+        [
+            { "key": "selection_empty", "operator": "equal", "operand": false, "match_all": true }
+        ]
     },
-    { "keys": ["shift+r"], "command": "browser_refresh", "args": {
-        "auto_save": true,
-        "delay": 0.0,
-        "activate": true,
-        "browsers" : ["chrome"]}
-    }
+    {"keys": ["ctrl+shift+t"], "command": "delete_trailing_spaces" },
+    {"keys": ["ctrl+shift+d"], "command": "toggle_trailing_spaces" },
+    { "keys": ["ctrl+n"], "command": "new_file" },
+    {"keys": ["ctrl+alt+m"], "command": "toggle_menu"}
 ]
