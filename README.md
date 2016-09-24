@@ -13,46 +13,36 @@
 
 ### Packages
 
+
 - AdvancedNewFile
 - Alignment
 - All Autocomplete
-- Animate.css Snippets
-- Blade Snippets
-- BracketHighlighter
+- AutoFileName
 - ColorSchemeSelector
-- DocBlockr
 - Emmet
-- Emmet Css Snippets
 - Git
-- Gulp
+- GitGutter-Edge
+- Inc-Dec-Value
 - Jade
-- Jade Snippets
-- jQuery
-- jQuery Snippets pack
-- jQueryDocs
-- Laravel 5 Artisan
-- Laravel 5 Snippets
-- Laravel Blade Highlighter
-- Markdown Preview
-- Material Theme
+- JavaScript Completions
+- JavaScriptNext - ES6 Syntax
 - MaxPane
-- Monokai - Spacegray
+- Monokai Extended
+- Monokai Neue
 - More Layouts
 - Nettuts+ Fetch
 - Package Control
 - PackageResourceViewer
-- Phix Color Scheme
 - php-snippets
 - Phpcs
 - PhpDoc
-- PhpNamespace
-- Python Completions
+- PHPIntel
 - Sass
 - SCSS
-- Terminal
-- Theme - Freesia
+- SideBarEnhancements
+- SideBarFolders
 - Theme - Soda
 - Themr
-- Tomorrow Color Schemes
+- Twig
 
 Par **[Gynidark](http://gynidark.github.io)**
